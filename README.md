@@ -2,9 +2,10 @@
 
 ##### Grade A
 
-Assignment
-"Case:
-You've been approached by a startup that offers various design products. They have an existing online platform, but given the increasing mobile usage trends, they want to expand their reach by introducing a mobile application.
+Assignment:
+
+
+"Case: You've been approached by a startup that offers various design products. They have an existing online platform, but given the increasing mobile usage trends, they want to expand their reach by introducing a mobile application.
 You’ve been given the task of developing a prototype of their new app which will use the Fake Store API, tailored to the customer’s needs and preferences. The app should offer a seamless experience from browsing products to checking out and viewing previous orders."
 
 <img width="398" alt="Skjermbilde 2024-01-24 kl  20 49 56" src="https://github.com/kath0809/Android-Exam-2023/assets/114475257/5d38da44-3402-4c6c-a666-d94bdb44e4ed">   <img width="371" alt="Skjermbilde 2024-01-24 kl  20 58 20" src="https://github.com/kath0809/Android-Exam-2023/assets/114475257/308571bb-2eee-4188-b3a9-0d74f7ac6180">
