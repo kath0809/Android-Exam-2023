@@ -1,5 +1,7 @@
 # Android exam 2023
 
+Alone / ~~Group~~
+
 ##### Grade A
 ---
 Assignment:
